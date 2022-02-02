@@ -24,7 +24,9 @@ Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para
   </a>
   
   &nbsp;
-  
+  &nbsp;
+    
+    
   <div align="center">
   <a href="https://github.com/larissadalimar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=larissadalimar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
