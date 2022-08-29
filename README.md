@@ -3,7 +3,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 💻 *Estudante de Ciência da Computação na UFRJ*  
-👩🏿‍💻 *Estagiária de Desenvolvimento no time de Tracking & Experimentation na OLX Brasil 💜*
+👩🏿‍💻 *Software Engineer Jr en Kranio*
 
 **Áreas de interesse:** Desenvolvimento Backend e Engenharia de Dados.  
 **Estudando atualmente:** Python, AWS e Java.   
