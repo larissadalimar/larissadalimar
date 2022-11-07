@@ -6,8 +6,8 @@
 👩🏿‍💻 *Software Engineer Jr en Kranio*
 
 **Áreas de interesse:** Desenvolvimento Backend e Engenharia de Dados.  
-**Estudando atualmente:** Python, AWS e Java.   
-**Trabalho com:** SQL, Javascript e ReactJS.
+**Estudando atualmente:** #C, .NET e Nodejs.   
+**Trabalho com:** SQL, C# e .NET.
 
 Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
 
