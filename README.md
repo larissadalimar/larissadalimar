@@ -1,15 +1,15 @@
-## Olá, me chamo Larissa Dalimar!
+## Hi, I'm Larissa Dalimar!
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-💻 *Estudante de Ciência da Computação na UFRJ*  
-👩🏿‍💻 *Software Engineer Jr en Kranio*
+💻 *Computer Science Student at UFRJ*  
+👩🏿‍💻 *Software Engineer Jr at Kranio*
 
-**Áreas de interesse:** Desenvolvimento Backend e Engenharia de Dados.  
-**Estudando atualmente:** C#, .NET e Nodejs.   
-**Trabalho com:** SQL, C# e .NET.
+**Areas of interest:** Backend Dev and Data Engineering.  
+**Studyng now:** Java, Spring Boot and AWS.   
+**Working with:** Spring Boot.
 
-Quero praticar e compartilhar os meus estudos por aqui. Sinta-se à vontade para deixar qualquer dúvida, dica ou qualquer feedback me chamando no linkedin ou gmail.
+I practice new learnings here. Feel free to leave any questions, tips or any feedback calling me on linkedin or gmail! 
 
 <a href="https://www.linkedin.com/in/larissadalimar/">
     <img
