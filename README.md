@@ -13,14 +13,13 @@ I practice new learnings here. Feel free to leave any questions, tips or any fee
 
 <a href="https://www.linkedin.com/in/larissadalimar/">
     <img
-         align="center"
-         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"
-  </a>
+         align="left"
+         src="https://img.shields.io/badge/LinkedIn-1C1C1C?style=for-the-badge&logo=linkedin&logoColor=00FFFF"/>
+</a>
   <a href="mailto:larissadalimar@gmail.com">
     <img
-      align="center"
-      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"
-    />
+      align="left"
+      src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF"/>
   </a>
   
   &nbsp;
