@@ -2,8 +2,8 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-💻 *Computer Science Student at UFRJ*  
-👩🏿‍💻 *Software Engineer Jr at Kranio*
+ *Computer Science Student at UFRJ*  
+ *Software Engineer Jr at Kranio*
 
 👩🏿‍💻 A Software Enginner with more interess and focus in Backend and DevOps.</br>
 💻 Curently I'm studying Java with Spring Boot, Docker and AWS. </br>
