@@ -5,10 +5,10 @@
 💻 *Computer Science Student at UFRJ*  
 👩🏿‍💻 *Software Engineer Jr at Kranio*
 
-A Software Enginner with more interess and focus in Backend and DevOps. 
-Curently I'm studying Java with Spring Boot, Docker and AWS. 
-I also have experiences with NodeJS, ReactJS, .Net, Laravel, Flask and Django.
-In my free time, I love to be with my family, friends and cat, and discover new places, foods and cultures.
+👩🏿‍💻 A Software Enginner with more interess and focus in Backend and DevOps.</br>
+💻 Curently I'm studying Java with Spring Boot, Docker and AWS. </br>
+⚙️ I also have experiences with NodeJS, ReactJS, .Net, Laravel, Flask and Django.</br>
+✈️ In my free time, I love to be with my family, friends and cat, and discover new places, foods and cultures.</br>
 
 I practice new learnings here. Feel free to leave any questions, tips or any feedback calling me on linkedin or gmail! 
 
